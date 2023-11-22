@@ -1,0 +1,3 @@
+ 'ticker': coin['optimized_symbol'],
+                        'price': coin['price'],
+                        'logo_url': coin['logo_url']
